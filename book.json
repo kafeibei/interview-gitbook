@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "scripts",
+    "-highlight",
+    "splitter",
+    "-sharing",
+    "toggle-chapters"
+  ],
+  "pluginsConfig": {
+    "script": {
+      "files": [
+        "./myscript.js"
+      ]
+    }
+  }
+}
